@@ -1,0 +1,34 @@
+#sokefelt {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+button img {
+    width: 20px;
+}
+button {
+    margin: 10px;
+}
+#output {
+    border: black 2px solid;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#sok, #knappSok {
+    border-radius: 5px;
+}
+#output {
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+#bildeOutput {
+    border-radius: 10px;
+}
