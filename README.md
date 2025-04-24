@@ -1,7 +1,7 @@
 <h1 align="center">JavaScript if/else setninger</h1> 
 <div align="center"> 
     <h3> 
-        <a href="RettLaks.github.io/Personer/"> Lenken til prosjektet 
+        <a href="rettlaks.github.io/Personer/"> Lenken til prosjektet 
         </a> 
     </h3> 
 </div> 
